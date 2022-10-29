@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include <chrono>
 #include <thread>
-//#include <termios.h>
+//#include <termios.h> //no required... i think
 //Made by Water :3
 
 using namespace std;
