@@ -1,2 +1,3 @@
 README
-aaaaaaa
+
+Programa que muestra un perro en consola
